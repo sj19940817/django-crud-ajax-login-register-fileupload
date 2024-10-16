@@ -26,7 +26,7 @@
 
 
 ``` 
- 1. git clone https://github.com/gowthamand/django-crud-ajax-login-register-fileupload
+ 1. git clone https://github.com/sj19940817/django-crud-ajax-login-register-fileupload
 
  2. Change settings.py MYSQL CONFIGURATIONS (name, user, password)
 
@@ -51,21 +51,21 @@
 
 ## Screen Shots
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/1.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/1.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/2.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/2.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/3.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/3.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/4.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/4.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/5.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/5.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/6.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/6.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/7.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/7.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/8.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/8.png)](https://github.com/sj19940817/django-crud-ajax-login-register-fileupload/)
 
 
 # Now Django Project Ready
